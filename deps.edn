@@ -8,7 +8,7 @@
                                                            :sha     "f7ef16dc3b8332b0d77bc0274578ad5270fbfedd"}
                                 org.xmlunit/xmlunit-core  {:mvn/version "2.6.3"}}}}
 
- :deps    {net.sf.saxon/Saxon-HE {:mvn/version "9.9.1-6"}
-           org.clojure/clojure   {:mvn/version "1.10.1"}
-           org.clojure/data.xml  {:mvn/version "0.2.0-alpha2"}
-           org.clojure/tools.cli {:mvn/version "0.4.2"}}}
+ :deps    {net.sf.saxon/Saxon-HE {:mvn/version "11.4"}
+           org.clojure/clojure   {:mvn/version "1.11.1"}
+           org.clojure/data.xml  {:mvn/version "0.2.0-alpha8"}
+           org.clojure/tools.cli {:mvn/version "1.0.214"}}}
